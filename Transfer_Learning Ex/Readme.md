@@ -10,5 +10,5 @@ Freeze wts in Conv and Pooling layers (fixed faeture attractor)
 Final layer replaced by new Fully Connected Layer
 Train ALL the fully connected layers
 	- fine tune in 2 linear layer(pretrained)
-	- newly train the last replaced layer
+	-  newly train the last replaced layer
 
